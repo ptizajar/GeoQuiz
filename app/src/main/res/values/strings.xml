@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">Канберра - столица Австралии</string>
+    <string name="question_oceans">Монако - самая маленькая по площади страна.</string>
+    <string name="question_mideast">Самая большая пустыня - Сахара.</string>
+    <string name="question_africa">В мире существует 24 часовых пояса.</string>
+    <string name="question_americas">Амазонка - самая полноводная река в мире.</string>
+    <string name="question_asia">Великую Китайскую стену видно из космоса.</string>
+
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="next_button">Следующий вопрос</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+
+</resources>
